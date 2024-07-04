@@ -19,7 +19,8 @@ import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
-
+import MainPage from "./pages/MainPage"
+import Empty from "./Empty"
 export {
   ArticleTitle,
   Content,
@@ -42,4 +43,6 @@ export {
   RecentNotes,
   NotFound,
   Breadcrumbs,
+  MainPage,
+  Empty
 }
